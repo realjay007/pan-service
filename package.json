@@ -86,7 +86,7 @@
 		"nodemon": "^2.0.20",
 		"shelljs": "^0.8.5",
 		"supertest": "^3.3.0",
-		"ts-jest": "^23.10.4"
+		"ts-jest": "^29.0.3"
 	},
 	"engines": {
 		"node": "8.12.0"
